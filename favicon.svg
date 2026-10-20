@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Pokegrand Exchange">
+  <rect width="32" height="32" rx="7" fill="#ffd000"/>
+  <rect x="5.5" y="9" width="12" height="16" rx="1.6" fill="#2f6bff" transform="rotate(-10 11.5 17)"/>
+  <rect x="14.5" y="8.5" width="12" height="16" rx="1.6" fill="#ff3b4e" transform="rotate(10 20.5 16.5)"/>
+  <rect x="10" y="8" width="12" height="16.5" rx="1.6" fill="#fffdf7"/>
+  <rect x="12" y="15" width="8" height="2.2" rx="0.4" fill="#1b2a6b"/>
+</svg>
